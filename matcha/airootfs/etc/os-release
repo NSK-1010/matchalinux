@@ -1,0 +1,12 @@
+NAME="Ubuntu"
+VERSION="20.04 LTS (Focal Fossa)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Matcha Linux"
+VERSION_ID="20.04"
+HOME_URL="https://0e0.pw/GyBg"
+SUPPORT_URL="https://0e0.pw/3xXw"
+BUG_REPORT_URL="https://0e0.pw/3xXW"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focal

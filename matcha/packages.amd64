@@ -1,0 +1,134 @@
+#
+#   Font
+#
+fonts-dejavu-core
+fonts-dejavu-extra
+fonts-emojione
+fonts-inter
+fonts-noto-cjk
+fonts-noto-cjk-extra
+fonts-noto-mono
+fonts-takao
+fonts-roboto
+
+
+#
+#   Lightdm
+#
+lightdm
+lightdm-gtk-greeter
+
+
+#
+#   Media
+#
+#-- audio --#
+pavucontrol
+pulseaudio
+
+#-- bluetooth --#
+blueman
+bluez
+pulseaudio-module-bluetooth
+
+#-- media player --#
+viewnior
+vlc
+
+#-- vlc plugin --#
+vlc-l10n
+vlc-plugin-notify
+vlc-plugin-samba
+vlc-plugin-skins2
+vlc-plugin-video-splitter
+vlc-plugin-visualization
+
+
+#
+#   Theme
+#
+#-- icon --#
+papirus-icon-theme
+
+#-- theme --#
+materia-gtk-theme
+
+
+#
+#   Utility
+#
+#-- apt utility --#
+gnome-software
+gnome-software-plugin-snap
+synaptic
+
+#-- archiver --#
+xarchiver
+
+#-- connection --#
+network-manager-gnome
+
+#-- gvfs --#
+gvfs
+
+#-- system monitor --#
+gnome-system-monitor
+htop
+
+#-- printer --#
+system-config-printer
+
+#-- other utility --#
+dconf-editor
+gimp
+kdeconnect
+neofetch
+seahorse
+simple-scan
+
+#-- security --#
+gufw
+ufw
+
+#-- disk utility --#
+baobab
+dmraid
+gparted
+hdparm
+lvm2
+parted
+
+
+#
+#   Xorg
+#
+#-- xorg base --#
+xdg-user-dirs
+xorg
+
+#-- drivers --#
+xserver-xorg-input-evdev
+xserver-xorg-input-libinput
+xserver-xorg-input-synaptics
+xserver-xorg-input-wacom
+xserver-xorg-legacy
+xserver-xorg-video-intel
+xserver-xorg-video-nouveau
+xserver-xorg-video-qxl
+xserver-xorg-video-radeon
+xserver-xorg-video-vesa
+xserver-xorg-video-vmware
+
+
+#
+#   MATE
+#
+#-- mate package --#
+mate-desktop-environment-extras
+
+#
+#   IME
+#
+#-- ibus-mozc --#
+ibus
+ibus-mozc
