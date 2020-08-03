@@ -1,4 +1,4 @@
-# matchalinux
+# Matcha Linux
 Matcha Linux - Ubuntu-based OS made in Japan simple
 ## How to build
 Matcha Linux has a build method that includes a [LUBS](https://github.com/FascodeNet/LUBS).    
